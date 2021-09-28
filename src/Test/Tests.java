@@ -12,7 +12,7 @@ import org.junit.Test;
 
 import Main.Main;
 
-public class Tests {
+public class                                                                                     Tests {
 	
 	static Main method = new Main();
 	String[] array={ "a", "b", "c"};
